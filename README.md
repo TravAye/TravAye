@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TravAye
-- 👀 I’m interested in ... Food
-- 🌱 I’m currently learning ... HTML, CSS, Java Script
+- 👀 I’m interested in ... A career in tech!
+- 🌱 I’m currently learning ... JavaScript, TypeScript, React!
 - 💞️ I’m looking to collaborate on ... Projects
 - 📫 How to reach me ... Travismasher@gmail.com
 
